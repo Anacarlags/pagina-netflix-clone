@@ -44,11 +44,10 @@ Nesse projeto foi recriado a interface do principal site de streaming mundial ut
 
 ## ⌨️ Desenvolvedora
 
-<img style="border-radius: 50%; "
-<img style="border-radius: 50%; " src="https://avatars3.githubusercontent.com/u/32022053?s=400&u=ec047bc2680e0cd5ba4f3d58ed413a24c88ad5b2&v=4" width="100px;" alt="Perfil-autor" ><br>
+
+<img style="border-radius: 50% " src="https://avatars3.githubusercontent.com/u/32022053?s=400&u=ec047bc2680e0cd5ba4f3d58ed413a24c88ad5b2&v=4" width="100px;" alt="Perfil-autor" ><br>
 <sub><b>Ana Carla gs</b></sub>
 
-:rocket: Exercício resolvido com muita dedicação e esforço por [Ana carla gs](https://www.linkedin.com/in/ana-carla-gs-lta) :man_technologist:
 
 ##### Contatos
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-carla-gs-lta)](https://www.linkedin.com/in/ana-carla-gs-lta)
