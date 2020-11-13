@@ -9,7 +9,7 @@
 <h2>
 
 <h2 align="center">
-<img alt="layout demonstrativo" src="static/img/lyout_projeto_netflix.png" width="600px">
+<img alt="layout demonstrativo" src="https://github.com/Anacarlags/pagina-netflix-clone/blob/master/img/Captura%20de%20ecr%C3%A3%20de%202020-11-13%2014-11-05.png" width="600px">
 </h2>
 
 <p align="center">
