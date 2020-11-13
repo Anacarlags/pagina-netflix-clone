@@ -5,7 +5,6 @@
 </h1>
 
 
-
 <h2 align="center" style="color:black"> Layout do Projeto Concluído
 <h2>
 
@@ -14,9 +13,6 @@
 </h2>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/ana-carla-gs-lta">
-        <img alt="Ana Carla" src="">
-    </a>
     <a href="LICENSE">
         <img alt="LICENSE" src="https://img.shields.io/badge/license-MIT-%23fc8406">
     </a>
